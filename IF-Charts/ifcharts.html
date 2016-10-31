@@ -23,6 +23,14 @@
     <link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
     <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.8";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
 </head>
 <body id="top">
     <!--[if lt IE 8]>
@@ -66,6 +74,8 @@
                     <div class="feature-list">
                         <h3>Plan your flight</h3>
                         <p>Select the airport you would like charts for. Want to learn how to use charts? Check out the <a href="tutorial.html">tutorial</a>. PLEASE NOTE THAT THESE CHARTS ARE NOT FOR OPERATIONAL USE!</p>
+                        <br>
+                        <div class="fb-like" data-href="https://www.facebook.com/IF-Charts-1233474450057832/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
                         <br>
                       <h4>South California</h4>
                         <a href="/KSAN/KSAN_dep.html">KSAN departure</a>
