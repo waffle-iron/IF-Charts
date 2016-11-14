@@ -6,7 +6,7 @@ A source for charts. Check on the FAQ below, or check out the wiki!
 I am happy to announce [IF-Charts](https://if-charts.000webhostapp.com/)! IF-Charts is a site where you can search for an airport icao, and it will bring up all the charts, including SID and STAR charts, for that airport.
 
 ### What charts can I get at the moment?
-At the moment, only a few charts are up. KLAX and KSAN are included (these are popular routes), along with a few other. However, charts are being added daily. Charts for American regions and London regions will be added very soon. You can also request charts [here](https://github.com/GiacomoLaw/IF-Charts/wiki/Requesting-charts).
+At the moment, quite a few charts are up. KLAX and KSAN are included (these are popular routes), along with a few others, usch as WSSS, EGBB and more. However, charts are being added daily. You can also request charts [here](https://github.com/GiacomoLaw/IF-Charts/wiki/Requesting-charts).
 
 ### Can I request for an airport to be added?
 Want an airport to be added? Add an issue to the site Github; you can see how to do that [here](https://github.com/GiacomoLaw/IF-Charts/wiki/Requesting-charts). If your a VA CEO, and your base airport is not there yet, please PM me to have your airport put at the top of the priority list.
