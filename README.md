@@ -1,5 +1,6 @@
 # IF-Charts
 ![IF-Charts(https://raw.githubusercontent.com/IF-Apps/IF-Charts/readme/header.png)
+
 A source for charts. Check on the FAQ below, or check out the wiki! You can find the site [here](https://if-charts.000webhostapp.com/).
 
 ## FAQ
