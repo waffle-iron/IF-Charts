@@ -7,10 +7,6 @@ deployment:
     branch: master
     owner: IF-Charts
 
-  release:
-    tag: /v[0-9]+(\.[0-9]+)*/
-    owner: IF-Charts
-
 machine:
   node:
     version: 4.0.0
