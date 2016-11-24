@@ -19,7 +19,7 @@ I won't be able to get charts for military airport, and smaller airports. I apol
 Nothing! IF-Charts is completely free to use, with no ads. I am planning to add donations that would help me get a premium domain, along with more space and uptime. However, that is not available yet.
 
 ### What devices can I use it on?
-You can use IF-Charts on any device. We recommend you use it landscape, however it also works portrait. You can have IF-Charts with you whenever you have connection.
+You can use IF-Charts on any device. We recommend you use it landscape, however it also works portrait (I have put a cheeky alert on the index page to give you a note). You can have IF-Charts with you whenever you have connection.
 
 If you have any more questions, feel free to pm me or contact us via the contact page on [IF-Charts](https://if-charts.000webhostapp.com/ ).
 
