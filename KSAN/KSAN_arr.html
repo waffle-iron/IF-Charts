@@ -70,7 +70,13 @@
 
           <!-- This is the block end -->
 
-                      <div id="nav_buttons">
+                      <style>
+ canvas #the-canvas {
+   transform: translateX(-20vw);
+ }
+</style>
+<section>
+                    <div id="nav_buttons">
                         <button id="prev">Previous</button>
                         <button id="next">Next</button>
                         <button id="zoomin">Zoom In</button>
@@ -81,7 +87,7 @@
                       </div>
 
                       <div id="chart_window">
-                        <canvas height="1024" width="800" id="the-canvas" style="border:1px solid black"></canvas>
+                        <canvas height="892" width="629" id="the-canvas" style="border:1px solid black; transform: translateX(-20vw);"></canvas>
                       </div>
 
                       <!-- for legacy browsers add compatibility.js -->
