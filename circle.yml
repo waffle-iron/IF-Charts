@@ -1,4 +1,18 @@
-checkout:
-  post:
-    - git submodule sync
-    - git submodule update --init
+dependencies:
+  cache_directories:
+    - browserstack
+
+deployment:
+  master:
+    branch: master
+    owner: IF-Charts
+    commands:
+      - npm run deploy-microsite
+
+  release:
+    tag: /v[0-9]+(\.[0-9]+)*/
+    owner: IF-Charts
+
+machine:
+  node:
+    version: 4.0.0
