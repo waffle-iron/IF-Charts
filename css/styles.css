@@ -418,7 +418,8 @@ header {
       header ul.member-actions li a:hover {
         color: #FF5274; }
   header .header-nav {
-    display: inline-block; }
+    display: inline-block;
+    color: #ffffff }
   header .member-actions {
     position: absolute;
     right: 0;
