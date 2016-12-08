@@ -16,7 +16,7 @@ Want an airport to be added? Add an issue to the site Github; you can see how to
 I won't be able to get charts for military airport, and smaller airports. I apologise about this, but military charts are not open to the public, and most small grass strip airports do not have charts.
 
 ### How much does it cost?
-Nothing! IF-Charts is completely free to use, with no ads. I am planning to add donations that would help me get a premium domain, along with more space and uptime. However, that is not available yet.
+Nothing! IF-Charts is completely free to use, with no ads. I am planning to add donations that would help me get a premium domain, along with more space and uptime. However, that is not available yet. I am planning to add them soon!
 
 ### What devices can I use it on?
 You can use IF-Charts on any device. We recommend you use it landscape, however it also works portrait (I have put a cheeky alert on the index page to give you a note). You can have IF-Charts with you whenever you have connection.
