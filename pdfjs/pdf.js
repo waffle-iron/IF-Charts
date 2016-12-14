@@ -6616,7 +6616,7 @@ var TilingPattern = (function TilingPatternClosure() {
       // MAX_PATTERN_SIZE is used to avoid OOM situation.
       // Use width and height values that are as close as possible to the end
       // result when the pattern is used. Too low value makes the pattern look
-      // blurry. Too large value makes it look too crispy.
+      // blurry. Too large value makes it look too crispy. 
       width = Math.min(Math.ceil(Math.abs(width * combinedScale[0])),
         MAX_PATTERN_SIZE);
 
