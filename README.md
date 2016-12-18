@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/IF-Apps/IF-Charts.png?label=ready&title=Ready)](https://waffle.io/IF-Apps/IF-Charts)
 # IF-Charts
 ![IF-Charts](https://raw.githubusercontent.com/IF-Apps/IF-Charts/master/header.png)
 
